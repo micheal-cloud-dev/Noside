@@ -22,7 +22,7 @@
 }
 
 .nav-link {
-  color: #1aff00;
+  color: #7CFC00;
 }
 .hero::before {
   content: "";
@@ -219,7 +219,7 @@
   width: 180px;              /* ✅ smaller size */
   padding: 8px 35px 8px 12px;        /* ✅ reduced padding */
 
-  background: #06fd3f;
+  background: #7CFC00;
   color: black;
   text-decoration: none;
 
