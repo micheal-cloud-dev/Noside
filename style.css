@@ -856,14 +856,21 @@ html,body {
 .footer {
   position: relative;
   min-height: 100vh;
-  background: url("hero-bg-mobil.jpeg") no-repeat center/cover;
+  background: url("hero-bg.jpeg") no-repeat center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
   padding: 20px;
 }
-
+.footer {
+  background-image:url("hero-bg.jpeg");
+}
+@media (max-width:768px) {
+  .footer {
+    background-image:url("hero-bg-mobil.jpeg");
+  }
+}
 /* Overlay */
 .overlay {
   position: absolute;
