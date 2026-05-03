@@ -14,7 +14,7 @@
 }
 @media (max-width:768px){
   .hero {
-    background-image:url("hero-mobile.jpeg");
+    background-image:url("heroes.jpeg");
   }
 }
 .hero-content {
