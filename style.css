@@ -856,7 +856,7 @@ html,body {
 .footer {
   position: relative;
   min-height: 100vh;
-  background: url("hero-bg.jpeg") no-repeat center/cover;
+  background: url("hero-bg-mobil.jpeg") no-repeat center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
